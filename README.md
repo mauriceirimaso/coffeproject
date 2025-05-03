@@ -1,1 +1,3 @@
 # coffeproject
+
+Kigali Coffee App is a mobile App platform built with React Native (for mobile apps) and Django (backend API) that allows users in Kigali to order high-quality coffee online with free, fast delivery. The app connects coffee lovers with local cafes and roasters, offering a seamless digital ordering experience
